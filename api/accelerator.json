@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "logoURL": "/img/a.png",
+      "title": "amp-carousel",
+      "industry": "Artificial Intelligence"
+    },
+    {
+      "logoURL": "https://pbs.twimg.com/profile_images/724820647466119169/dC4-Ora3_400x400.jpg",
+      "title": "amp-carousel",
+      "industry": "Artificial Intelligence"
+    },
+    {
+      "logoURL": "https://pbs.twimg.com/profile_images/2796597234/0200c5cf3cb3e2b51977976b4cb809cc_400x400.png",
+      "title": "amp-carousel",
+      "industry": "Artificial Intelligence"
+    },
+    {
+      "logoURL": "https://startupnexus.net/wp-content/uploads/2017/03/nexus-partner-KIIT-TBI-510x340.jpg",
+      "title": "amp-carousel",
+      "industry": "Artificial Intelligence"
+    },
+    {
+      "logoURL": "/img/t.png",
+      "title": "amp-carousel",
+      "industry": "Artificial Intelligence"
+    },
+    {
+      "logoURL": "/img/images.png",
+      "title": "amp-carousel",
+      "industry": "Artificial Intelligence"
+    },
+    {
+      "logoURL": "/img/images.png",
+      "title": "amp-carousel",
+      "industry": "Artificial Intelligence"
+    },
+    {
+      "logoURL": "/img/images.png",
+      "title": "amp-carousel",
+      "industry": "Artificial Intelligence"
+    }
+    
+  ]
+}
