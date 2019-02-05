@@ -30,6 +30,31 @@
     <style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none;}</style>
   </noscript>
   <style>
+ .lds-dual-ring {
+  display: inline-block;
+  width: 64px;
+  height: 64px;
+}
+.lds-dual-ring:after {
+  content: " ";
+  display: block;
+  width: 46px;
+  height: 46px;
+  margin: 1px;
+  border-radius: 50%;
+  border: 5px solid #f0343d;
+  border-color: #f0343d transparent #f0343d transparent;
+  animation: lds-dual-ring 1.2s linear infinite;
+}
+@keyframes lds-dual-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
     .hide{height: 100vh; overflow:hidden;}
     overflowHidden{overflow: hidden;}
     .inheritHeight{height: inherit}
@@ -92,7 +117,7 @@
     <nav class="ampstart-headerbar-nav ampstart-nav">
       <ul id = "navList" class="list-reset center m0 p0 flex justify-center nowrap">
         <li class="ampstart-nav-item " >
-          <a [class]="myClass1" href="#"  on="tap:AMP.setState({ mysrc: '/api/accelerator.json', myText: 'Open Sourced List of Active Accelerators in NCR', myClass1: 'bottomBorderRed', myClass2:'noBorder', myClass3: 'noBorder'})" class="text-decoration-none bottomBorderRed">Accelerators</a>
+          <a [class]="myClass1" href="#"  on="tap: AMP.setState({ mysrc: '/api/accelerator.json', myText: 'Open Sourced List of Active Accelerators in NCR', myClass1: 'bottomBorderRed', myClass2:'noBorder', myClass3: 'noBorder'})" class="text-decoration-none bottomBorderRed">Accelerators</a>
         </li>
         <li class="ampstart-nav-item " >
           <a [class]="myClass2" href="#" on="tap:AMP.setState({ mysrc: '/api/incubator.json', myText: 'Open Sourced List of Active Incubators in NCR', myClass2: 'bottomBorderRed', myClass1:'noBorder', myClass3: 'noBorder' })" class="text-decoration-none block">Incubators</a>
@@ -104,7 +129,7 @@
     </nav>
   </header>
   <!-- End Navbar -->
-
+  
   <div class="coverHero shadow">
       <div class=" backgroundTransparentBlack textAlignCenter inheritHeight paddingTop">
           <h1 class="fontLight fontMont heading">We Help Entrepreneurs</h1>
@@ -118,7 +143,10 @@
             "/api/popular.json"
           </script>
         </amp-state>
-    <amp-list width="auto" height="500px" layout="fixed-height" src="/api/accelerator.json" [src]="mysrc">
+    <amp-list id="listing" width="auto" height="500px" layout="fixed-height" reset-on-refresh src="/api/accelerator.json" [src]="mysrc">
+      <div style="text-align: center; margin-top: 25%;" placeholder>
+        <div class="lds-dual-ring"></div>
+      </div>
       <template type="amp-mustache">
         <div class="rootFlex flexJustifyEvenly">
           <div class="listContainer paddingAll flexAlignCentre backgroundWhite shadow">
