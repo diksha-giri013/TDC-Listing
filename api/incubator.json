@@ -11,6 +11,66 @@
       "website": "www.ciba.org.in"
     },
     {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
+      "title": "Amity Innovation Incubator",
+      "industry": "Multifold",
+      "location": "Noida",
+      "ticket-size":"Upto INR 1Cr",
+      "fb-url":"https://www.facebook.com/Innovation-Circle-100582500048559/",
+      "ln-url":"https://www.linkedin.com/groups/3878894",
+      "website": "www.amity.edu/aii"
+    },
+    {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
+      "title": "IAN Incubator",
+      "industry": "IT/ITES, Telecom, Mobile VAS, Gaming...",
+      "location": "Delhi",
+      "ticket-size":"--",
+      "fb-url":"https://www.facebook.com/indianangelnetwork?ref=hl/",
+      "ln-url":"https://www.linkedin.com/company/indian-angel-network",
+      "website": "www.ian-fund.com"
+    },
+    {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
+      "title": "iCreate",
+      "industry": "N/A",
+      "location": "Ahmedabad",
+      "ticket-size":"--",
+      "fb-url":"https://www.facebook.com/icreateNextGen",
+      "ln-url":"https://www.linkedin.com/in/icreatenextgen",
+      "website": "icreate.org.in"
+    },
+    {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
+      "title": "Indavest",
+      "industry": "Ecommerce, Mobile Applications, Software",
+      "location": "Bengaluru",
+      "ticket-size":"--",
+      "fb-url":"#",
+      "ln-url":"https://www.linkedin.com/company/indavest-ventures/about/",
+      "website": "www.indavest.com"
+    },
+    {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
+      "title": "Khosla Labs",
+      "industry": "Big Data, Mobile payment & banking, Healthcare",
+      "location": "Bengaluru",
+      "ticket-size":"--",
+      "fb-url":"http://facebook.com/khoslalabs",
+      "ln-url":"https://www.linkedin.com/company/khosla-labs?originalSubdomain=in",
+      "website": "khoslalabs.com/"
+    },
+    {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
+      "title": "Indavest",
+      "industry": "Ecommerce, Mobile Applications, Software",
+      "location": "Bengaluru",
+      "ticket-size":"--",
+      "fb-url":"#",
+      "ln-url":"https://www.linkedin.com/company/indavest-ventures/about/",
+      "website": "www.indavest.com"
+    },
+    {
       "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ndbi.png",
       "title": "National Design Business Incubator (NDBI)",
       "industry": "Medical Technology, Agri, Bio",
@@ -51,7 +111,7 @@
       "website": "www.venturecenter.co.in"
     },
     {
-      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/Sandbox-Startup-Logo.png",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/sandbox.jpg",
       "title": "Foundation for Sandboxstartup Initiatives",
       "industry": "Multisector, Social Enterprises",
       "location": "Hubli",
@@ -62,16 +122,6 @@
     },
     {
       "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/IIITD.png",
-      "title": "IIITD Innovation and Incubation Centre",
-      "industry": "Multisector",
-      "location": "New Delhi",
-      "ticket-size":"--",
-      "fb-url":"https://www.facebook.com/I3C.IIITD/",
-      "ln-url":"https://www.linkedin.com/company/iiitd-innovation-and-incubation-center/?originalSubdomain=in",
-      "website": "www.iiitd.ac.in"
-    },
-    {
-      "logoURL": "https://github.com/diksha-giri013/ListingLogo/blob/master/IIITD.png",
       "title": "IIITD Innovation and Incubation Centre",
       "industry": "Multisector",
       "location": "New Delhi",
