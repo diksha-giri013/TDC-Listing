@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "logoURL": "http://ciba.org.in/mumbai/wp-content/uploads/2017/04/ciba.png",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
       "title": "Centre for Incubation and Business Acceleration",
       "industry": "IT, Food Processing, Clean Technology, Iot",
       "location": "Mumbai, Goa",
@@ -11,7 +11,7 @@
       "website": "www.ciba.org.in"
     },
     {
-      "logoURL": "https://logopond.com/logos/fd946e9e5418f9a478221bd2102712c7.png",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ndbi.png",
       "title": "National Design Business Incubator (NDBI)",
       "industry": "Medical Technology, Agri, Bio",
       "location": "Bengaluru",
@@ -21,7 +21,7 @@
       "website": "www.ndbiindia.org"
     },
     {
-      "logoURL": "http://provenance.mutbimanipal.org/img_external/logos/MUTBI.png",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/MUTBI.png",
       "title": "Manipal University Technology Business Incubator ",
       "industry": "Consumer commerce, education, design",
       "location": "Manipal",
@@ -31,7 +31,7 @@
       "website": "www.mutbimanipal.org"
     },
     {
-      "logoURL": "https://pbs.twimg.com/profile_images/877437697547264000/TA2jYFIS_200x200.jpg",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/villgro.jpg",
       "title": "Villgro",
       "industry": "Social enterprises",
       "location": "Chennai",
@@ -41,7 +41,7 @@
       "website": "www.villgro.org"
     },
     {
-      "logoURL": "https://i0.wp.com/inc42.com/wp-content/uploads/2014/08/venture-centre.png?resize=200%2C125&ssl=1",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/venture-centre.png",
       "title": "Venture Center",
       "industry": "Consumer commerce, education, design",
       "location": "Pune",
@@ -51,7 +51,7 @@
       "website": "www.venturecenter.co.in"
     },
     {
-      "logoURL": "https://www.sandboxstartups.org/img/Sandbox-Startup-Logo.png",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/Sandbox-Startup-Logo.png",
       "title": "Foundation for Sandboxstartup Initiatives",
       "industry": "Multisector, Social Enterprises",
       "location": "Hubli",
@@ -61,7 +61,7 @@
       "website": "www.sandboxstartups.org"
     },
     {
-      "logoURL": "https://icubedelhi.in/assets/img/logo.new.png",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/IIITD.png",
       "title": "IIITD Innovation and Incubation Centre",
       "industry": "Multisector",
       "location": "New Delhi",
