@@ -11,7 +11,7 @@
       "website": "www.ciba.org.in"
     },
     {
-      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/amity-logo.png",
       "title": "Amity Innovation Incubator",
       "industry": "Multifold",
       "location": "Noida",
@@ -21,7 +21,7 @@
       "website": "www.amity.edu/aii"
     },
     {
-      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
+      "logoURL": "https://github.com/diksha-giri013/TDC-Listing/blob/master/res/logo/incubator/ian.webp",
       "title": "IAN Incubator",
       "industry": "IT/ITES, Telecom, Mobile VAS, Gaming...",
       "location": "Delhi",
@@ -31,7 +31,7 @@
       "website": "www.ian-fund.com"
     },
     {
-      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
+      "logoURL": "https://github.com/diksha-giri013/TDC-Listing/blob/master/res/logo/incubator/icreate.jpeg?raw=true",
       "title": "iCreate",
       "industry": "N/A",
       "location": "Ahmedabad",
@@ -41,7 +41,7 @@
       "website": "icreate.org.in"
     },
     {
-      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/indiavest.png",
       "title": "Indavest",
       "industry": "Ecommerce, Mobile Applications, Software",
       "location": "Bengaluru",
@@ -51,7 +51,7 @@
       "website": "www.indavest.com"
     },
     {
-      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/khosla-labs.png",
       "title": "Khosla Labs",
       "industry": "Big Data, Mobile payment & banking, Healthcare",
       "location": "Bengaluru",
@@ -59,16 +59,6 @@
       "fb-url":"http://facebook.com/khoslalabs",
       "ln-url":"https://www.linkedin.com/company/khosla-labs?originalSubdomain=in",
       "website": "khoslalabs.com/"
-    },
-    {
-      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
-      "title": "Indavest",
-      "industry": "Ecommerce, Mobile Applications, Software",
-      "location": "Bengaluru",
-      "ticket-size":"--",
-      "fb-url":"#",
-      "ln-url":"https://www.linkedin.com/company/indavest-ventures/about/",
-      "website": "www.indavest.com"
     },
     {
       "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ndbi.png",
