@@ -1,24 +1,54 @@
 {
   "items": [
     {
-      "logoURL": "/img/a.png",
-      "title": "amp-carousel",
-      "url": "https://ampbyexample.com/components/amp-carousel"
+      "logoURL": "RA",
+      "title": "Rajan Anandan",
+      "industry": "Consumer commerce, education, design",
+      "location": "Mumbai",
+      "ticket-size":"$150k",
+      "fb-url":"https://angel.co/rajan-anandan",
+      "ln-url":"http://www.linkedin.com/company/1443207",
+      "website": ""
     },
     {
-      "logoURL": "https://pbs.twimg.com/profile_images/724820647466119169/dC4-Ora3_400x400.jpg",
-      "title": "amp-carousel",
-      "url": "https://ampbyexample.com/components/amp-carousel"
+      "logoURL": "RA",
+      "title": "Rajan Anandan",
+      "industry": "Consumer commerce, education, design",
+      "location": "Mumbai",
+      "ticket-size":"$150k",
+      "fb-url":"https://angel.co/rajan-anandan",
+      "ln-url":"http://www.linkedin.com/company/1443207",
+      "website": ""
     },
     {
-      "logoURL": "https://pbs.twimg.com/profile_images/2796597234/0200c5cf3cb3e2b51977976b4cb809cc_400x400.png",
-      "title": "amp-carousel",
-      "url": "https://ampbyexample.com/components/amp-carousel"
+      "logoURL": "RA",
+      "title": "Rajan Anandan",
+      "industry": "Consumer commerce, education, design",
+      "location": "Mumbai",
+      "ticket-size":"$150k",
+      "fb-url":"https://angel.co/rajan-anandan",
+      "ln-url":"http://www.linkedin.com/company/1443207",
+      "website": ""
     },
     {
-      "logoURL": "https://startupnexus.net/wp-content/uploads/2017/03/nexus-partner-KIIT-TBI-510x340.jpg",
-      "title": "amp-carousel",
-      "url": "https://ampbyexample.com/components/amp-carousel"
+      "logoURL": "RA",
+      "title": "Rajan Anandan",
+      "industry": "Consumer commerce, education, design",
+      "location": "Mumbai",
+      "ticket-size":"$150k",
+      "fb-url":"https://angel.co/rajan-anandan",
+      "ln-url":"http://www.linkedin.com/company/1443207",
+      "website": ""
+    },
+    {
+      "logoURL": " ",
+      "title": " ",
+      "industry": " ",
+      "location": " ",
+      "ticket-size":" ",
+      "fb-url":" ",
+      "ln-url":" ",
+      "website": " "
     }
     
   ]

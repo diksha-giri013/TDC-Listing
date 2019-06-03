@@ -1,21 +1,84 @@
 {
   "items": [
-    
     {
-      "logoURL": "https://startupnexus.net/wp-content/uploads/2017/03/nexus-partner-KIIT-TBI-510x340.jpg",
-      "title": "amp-carousel",
-      "url": "https://ampbyexample.com/components/amp-carousel"
+      "logoURL": "http://ciba.org.in/mumbai/wp-content/uploads/2017/04/ciba.png",
+      "title": "Centre for Incubation and Business Acceleration",
+      "industry": "IT, Food Processing, Clean Technology, Iot",
+      "location": "Mumbai, Goa",
+      "ticket-size":"--",
+      "fb-url":"https://www.facebook.com/GoaCIBA/",
+      "ln-url":"https://www.linkedin.com/company/centre-for-incubation-&-business-acceleration/",
+      "website": "www.ciba.org.in"
     },
     {
-      "logoURL": "/img/t.png",
-      "title": "amp-carousel",
-      "url": "https://ampbyexample.com/components/amp-carousel"
+      "logoURL": "https://logopond.com/logos/fd946e9e5418f9a478221bd2102712c7.png",
+      "title": "National Design Business Incubator (NDBI)",
+      "industry": "Medical Technology, Agri, Bio",
+      "location": "Bengaluru",
+      "ticket-size":"--",
+      "fb-url":"https://www.facebook.com/NDBI-Bengaluru-183444818814714/?__tn__=%2Cd%2CP-R&eid=ARBzoF-4XmRMUzLqVl7NP3Vx3i3-ToFrXgH_Y3r6XDEzP9dpGnaN_horXKO0FeurKGSA8IlOwKUs8p07",
+      "ln-url":"#",
+      "website": "www.ndbiindia.org"
     },
     {
-      "logoURL": "/img/images.png",
-      "title": "amp-carousel",
-      "url": "https://ampbyexample.com/components/amp-carousel"
+      "logoURL": "http://provenance.mutbimanipal.org/img_external/logos/MUTBI.png",
+      "title": "Manipal University Technology Business Incubator ",
+      "industry": "Consumer commerce, education, design",
+      "location": "Manipal",
+      "ticket-size":"--",
+      "fb-url":"#",
+      "ln-url":"https://www.linkedin.com/in/mutbi/",
+      "website": "www.mutbimanipal.org"
+    },
+    {
+      "logoURL": "https://pbs.twimg.com/profile_images/877437697547264000/TA2jYFIS_200x200.jpg",
+      "title": "Villgro",
+      "industry": "Social enterprises",
+      "location": "Chennai",
+      "ticket-size":"INR 50L",
+      "fb-url":"https://www.facebook.com/villgro",
+      "ln-url":"https://www.linkedin.com/company/villgro-innovations-foundation",
+      "website": "www.villgro.org"
+    },
+    {
+      "logoURL": "https://i0.wp.com/inc42.com/wp-content/uploads/2014/08/venture-centre.png?resize=200%2C125&ssl=1",
+      "title": "Venture Center",
+      "industry": "Consumer commerce, education, design",
+      "location": "Pune",
+      "ticket-size":"INR 1L-25L",
+      "fb-url":"https://www.facebook.com/venturecenterpune",
+      "ln-url":"https://www.linkedin.com/in/venture-center-pune/",
+      "website": "www.venturecenter.co.in"
+    },
+    {
+      "logoURL": "https://www.sandboxstartups.org/img/Sandbox-Startup-Logo.png",
+      "title": "Foundation for Sandboxstartup Initiatives",
+      "industry": "Multisector, Social Enterprises",
+      "location": "Hubli",
+      "ticket-size":"--",
+      "fb-url":"https://www.facebook.com/Thesandboxincubator/",
+      "ln-url":"https://www.linkedin.com/company/sandbox-startups-incubator/",
+      "website": "www.sandboxstartups.org"
+    },
+    {
+      "logoURL": "https://icubedelhi.in/assets/img/logo.new.png",
+      "title": "IIITD Innovation and Incubation Centre",
+      "industry": "Multisector",
+      "location": "New Delhi",
+      "ticket-size":"--",
+      "fb-url":"https://www.facebook.com/I3C.IIITD/",
+      "ln-url":"https://www.linkedin.com/company/iiitd-innovation-and-incubation-center/?originalSubdomain=in",
+      "website": "www.iiitd.ac.in"
+    },
+    {
+      "logoURL": "https://github.com/diksha-giri013/ListingLogo/blob/master/IIITD.png",
+      "title": "IIITD Innovation and Incubation Centre",
+      "industry": "Multisector",
+      "location": "New Delhi",
+      "ticket-size":"--",
+      "fb-url":"https://www.facebook.com/I3C.IIITD/",
+      "ln-url":"https://www.linkedin.com/company/iiitd-innovation-and-incubation-center/?originalSubdomain=in",
+      "website": "www.iiitd.ac.in"
     }
-    
   ]
 }
