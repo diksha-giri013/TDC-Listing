@@ -11,6 +11,46 @@
       "website": "www.ciba.org.in"
     },
     {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
+      "title": "Prime Venture Partners",
+      "industry": "Mobile internet, ecommerce",
+      "location": "Bengaluru",
+      "ticket-size":"$200K-600K",
+      "fb-url":"https://www.facebook.com/PrimeVenturePartners",
+      "ln-url":"https://www.linkedin.com/company/angelprime",
+      "website": "www.primevp.in"
+    },
+    {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
+      "title": "Centre for Innovation Incubation and Entrepreneurship",
+      "industry": "Information Communication Technology, Cleantech and Social",
+      "location": "Ahmedabad",
+      "ticket-size":"INR 20L",
+      "fb-url":"https://www.facebook.com/CIIEIndia/",
+      "ln-url":"https://www.linkedin.com/company/ciieindia/",
+      "website": "www.ciie.co"
+    },
+    {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
+      "title": "Centre for Innovation Incubation and Entrepreneurship",
+      "industry": "IT, Food Processing, Clean Technology, Iot",
+      "location": "Ahmedabad",
+      "ticket-size":"INR 20L",
+      "fb-url":"https://www.facebook.com/CIIEIndia/",
+      "ln-url":"https://www.linkedin.com/company/ciieindia/",
+      "website": "www.ciie.co"
+    },
+    {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
+      "title": "Seedfund",
+      "industry": " Consumer Internet, Ecommerce, Education, Analytics",
+      "location": "Mumbai",
+      "ticket-size":"INR 1Cr-1.5Cr",
+      "fb-url":"https://www.facebook.com/seedfund",
+      "ln-url":"http://www.linkedin.com/groups/Seedfund-4088418?gid=4088418&trk=hb_side_g",
+      "website": "www.seedfund.in"
+    },   
+    {
       "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/amity-logo.png",
       "title": "Amity Innovation Incubator",
       "industry": "Multifold",
@@ -21,7 +61,7 @@
       "website": "www.amity.edu/aii"
     },
     {
-      "logoURL": "https://github.com/diksha-giri013/TDC-Listing/blob/master/res/logo/incubator/ian.webp",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ian.jpg",
       "title": "IAN Incubator",
       "industry": "IT/ITES, Telecom, Mobile VAS, Gaming...",
       "location": "Delhi",
