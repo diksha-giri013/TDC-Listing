@@ -63,6 +63,7 @@
       ::-webkit-scrollbar{
         display: none;
       }
+      
     .transparentBackground{background-color: rgba(0 , 0, 0, 0);}  
     .flexEnable{flex:1;} .flexAlignBottom{align-items: flex-end;} .flexJustifyEvenly{justify-content: space-evenly;} .paddingLeft{padding-left: 5px} .paddingAll{padding: 10px;} .rootFlex{display: flex; flex: 1;}
     .col{max-width: 25%; background-color: hotpink;} .backgroundWhite{background-color: #fff}
@@ -73,7 +74,8 @@
     .listRightCol{width: 75%; align-content: space-between;}
     .row1Height{height: 30%;} .row2Height{height: 20%;} .row3Height{height: 50%;}
     .navAlign{top: 0;}
-    .coverHero{width: 1920px; height: 350px; overflow: hidden; object-position: center; background:url("img\cover.jpg"); background-size: cover; background-position: center;} 
+    .coverHero{width: 1920px; height: 350px; overflow: hidden; object-position: center; background: -webkit-linear-gradient(to right, #eb3349, #f45c43); /* Chrome 10-25, Safari 5.1-6 */
+     background: linear-gradient(to right, #eb3349, #f45c43); background-size: cover; background-position: center;} 
     .listContainer { width: fit-content;  width: -moz-max-content; height: fit-content;}
     .static{position: static;}
     .bottomBorderRed{border-bottom: 6px solid #f0343d;}
@@ -133,7 +135,7 @@
   <!-- End Navbar -->
   
   <div class="coverHero shadow">
-      <div class=" backgroundTransparentBlack textAlignCenter inheritHeight paddingTop">
+       <div class="textAlignCenter inheritHeight paddingTop">
           <h1 class="fontLight fontMont heading">We Help Entrepreneurs</h1>
           <h3 class="fontLight fontRob subtitle" [text]="myText">Open Sourced List Of Active Accelerators in NCR</h3>
         </div>
