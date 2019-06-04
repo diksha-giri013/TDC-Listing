@@ -73,7 +73,7 @@
     .listRightCol{width: 75%; align-content: space-between;}
     .row1Height{height: 30%;} .row2Height{height: 20%;} .row3Height{height: 50%;}
     .navAlign{top: 0;}
-    .coverHero{width: 1920px; height: 350px; overflow: hidden; object-position: center; background:url('/img/cover.jpg'); background-size: cover; background-position: center;} 
+    .coverHero{width: 1920px; height: 350px; overflow: hidden; object-position: center; background:url("img\cover.jpg"); background-size: cover; background-position: center;} 
     .listContainer { width: fit-content;  width: -moz-max-content; height: fit-content;}
     .static{position: static;}
     .bottomBorderRed{border-bottom: 6px solid #f0343d;}
@@ -114,18 +114,18 @@
 
   <header class="ampstart-headerbar fixed navAlign flex justify-start items-center left-0 right-0 pl2 pr4">
 
-    <amp-img src="/img/logo.png" width="300" height="60" layout="fixed" class="my0 mx-auto sm-hide xs-hide" alt="TDC"></amp-img>
-    <amp-img src="/img/logo.png" width="100" height="20" layout="fixed" class="my0 mx-auto md-hide lg-hide" alt="TDC"></amp-img>
+    <amp-img src="img\logo.png" width="300" height="60" layout="fixed" class="my0 mx-auto sm-hide xs-hide" alt="TDC"></amp-img>
+    <amp-img src="img\logo.png" width="100" height="20" layout="fixed" class="my0 mx-auto md-hide lg-hide" alt="TDC"></amp-img>
     <nav class="ampstart-headerbar-nav ampstart-nav">
       <ul id = "navList" class="list-reset center m0 p0 flex justify-center nowrap">
         <li class="ampstart-nav-item " >
-          <a [class]="myClass1" href="#"  on="tap: AMP.setState({ mysrc: '/api/accelerator.json', myText: 'Open Sourced List of Active Accelerators in NCR', myClass1: 'bottomBorderRed', myClass2:'noBorder', myClass3: 'noBorder'})" class="text-decoration-none bottomBorderRed">Accelerators</a>
+          <a [class]="myClass1" href="#"  on="tap: AMP.setState({ mysrc: 'api\accelerator.json', myText: 'Open Sourced List of Active Accelerators in NCR', myClass1: 'bottomBorderRed', myClass2:'noBorder', myClass3: 'noBorder'})" class="text-decoration-none bottomBorderRed">Accelerators</a>
         </li>
         <li class="ampstart-nav-item " >
-          <a [class]="myClass2" href="#" on="tap:AMP.setState({ mysrc: '/api/incubator.json', myText: 'Open Sourced List of Active Incubators in NCR', myClass2: 'bottomBorderRed', myClass1:'noBorder', myClass3: 'noBorder' })" class="text-decoration-none block">Incubators</a>
+          <a [class]="myClass2" href="#" on="tap:AMP.setState({ mysrc: 'api\incubator.json', myText: 'Open Sourced List of Active Incubators in NCR', myClass2: 'bottomBorderRed', myClass1:'noBorder', myClass3: 'noBorder' })" class="text-decoration-none block">Incubators</a>
         </li>
         <li class="ampstart-nav-item " > 
-          <a [class]="myClass3" href="#" on="tap:AMP.setState({ mysrc: '/api/investor.json', myText: 'Open Sourced List of Active Investors in NCR', myClass3: 'bottomBorderRed', myClass1:'noBorder', myClass2: 'noBorder' })" class="text-decoration-none block">Investors</a>
+          <a [class]="myClass3" href="#" on="tap:AMP.setState({ mysrc: 'api\investor.json', myText: 'Open Sourced List of Active Investors in NCR', myClass3: 'bottomBorderRed', myClass1:'noBorder', myClass2: 'noBorder' })" class="text-decoration-none block">Investors</a>
         </li>
       </ul>
     </nav>
@@ -145,7 +145,7 @@
             "/api/popular.json"
           </script>
         </amp-state>
-    <amp-list id="listing" width="auto" height="500px" layout="fixed-height" reset-on-refresh src="/api/accelerator.json" [src]="mysrc">
+    <amp-list id="listing" width="auto" height="500px" layout="fixed-height" reset-on-refresh src="api\accelerator.json" [src]="mysrc">
       <div style="text-align: center; margin-top: 25%;" placeholder>
         <div class="lds-dual-ring"></div>
       </div>

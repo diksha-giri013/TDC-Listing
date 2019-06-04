@@ -1,54 +1,134 @@
 {
   "items": [
     {
-      "logoURL": "RA",
-      "title": "Rajan Anandan",
-      "industry": "Consumer commerce, education, design",
-      "location": "Mumbai",
-      "ticket-size":"$150k",
-      "fb-url":"https://angel.co/rajan-anandan",
-      "ln-url":"http://www.linkedin.com/company/1443207",
-      "website": ""
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/investor/sharad-sharma.jpg",
+      "title": "Sharad Sharma",
+      "industry": "Consumer Internet, Mobile and SaaS",
+      "location": "New Delhi",
+      "ticket-size":"--",
+      "tw-url":"http://twitter.com/sharads",
+      "ln-url":"https://in.linkedin.com/in/sharadsharma",
+      "website": "angel.co/sharad-sharma"
     },
     {
-      "logoURL": "RA",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/investor/rajan-anandan-e1421677710851.jpg",
       "title": "Rajan Anandan",
-      "industry": "Consumer commerce, education, design",
-      "location": "Mumbai",
-      "ticket-size":"$150k",
-      "fb-url":"https://angel.co/rajan-anandan",
-      "ln-url":"http://www.linkedin.com/company/1443207",
-      "website": ""
+      "industry": "Internet, Mobile and Saas",
+      "location": "Bengaluru",
+      "ticket-size":"--",
+      "tw-url":"https://twitter.com/RajanAnandan",
+      "ln-url":"https://in.linkedin.com/pub/rajan-anandan/14/1b8/248",
+      "website": "angel.co/rajan-anandan"
     },
     {
-      "logoURL": "RA",
-      "title": "Rajan Anandan",
-      "industry": "Consumer commerce, education, design",
-      "location": "Mumbai",
-      "ticket-size":"$150k",
-      "fb-url":"https://angel.co/rajan-anandan",
-      "ln-url":"http://www.linkedin.com/company/1443207",
-      "website": ""
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/investor/meena-ganesh-e1421677784708.jpg",
+      "title": "Meena Ganesh",
+      "industry": "Consumer Internet, Healthcare and SaaS",
+      "location": "Bengaluru",
+      "ticket-size":"--",
+      "tw-url":"https://twitter.com/meenaganesh",
+      "ln-url":"https://www.linkedin.com/pub/meena-ganesh/5/79/946",
+      "website": "angel.co/meena-ganesh"
     },
     {
-      "logoURL": "RA",
-      "title": "Rajan Anandan",
-      "industry": "Consumer commerce, education, design",
-      "location": "Mumbai",
-      "ticket-size":"$150k",
-      "fb-url":"https://angel.co/rajan-anandan",
-      "ln-url":"http://www.linkedin.com/company/1443207",
-      "website": ""
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/investor/ritesh-malik-e1421677842519.jpg",
+      "title": "Ritesh Malik",
+      "industry": "Technology, Hardware",
+      "location": "New Delhi",
+      "ticket-size":"--",
+      "tw-url":"#",
+      "ln-url":"https://in.linkedin.com/in/dr-ritesh-malik-877a87a",
+      "website": "angel.co/riteshmalik40"
     },
     {
-      "logoURL": " ",
-      "title": " ",
-      "industry": " ",
-      "location": " ",
-      "ticket-size":" ",
-      "fb-url":" ",
-      "ln-url":" ",
-      "website": " "
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/investor/sharad-sharma.jpg",
+      "title": "Sharad Sharma",
+      "industry": "Consumer Internet, Mobile and SaaS",
+      "location": "New Delhi",
+      "ticket-size":"--",
+      "tw-url":"http://twitter.com/sharads",
+      "ln-url":"https://in.linkedin.com/in/sharadsharma",
+      "website": "angel.co/sharad-sharma"
+    },
+    {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/investor/sharad-sharma.jpg",
+      "title": "Sharad Sharma",
+      "industry": "Consumer Internet, Mobile and SaaS",
+      "location": "New Delhi",
+      "ticket-size":"--",
+      "tw-url":"http://twitter.com/sharads",
+      "ln-url":"https://in.linkedin.com/in/sharadsharma",
+      "website": "angel.co/sharad-sharma"
+    },
+    {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/investor/sharad-sharma.jpg",
+      "title": "Sharad Sharma",
+      "industry": "Consumer Internet, Mobile and SaaS",
+      "location": "New Delhi",
+      "ticket-size":"--",
+      "tw-url":"http://twitter.com/sharads",
+      "ln-url":"https://in.linkedin.com/in/sharadsharma",
+      "website": "angel.co/sharad-sharma"
+    },
+    {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/investor/sharad-sharma.jpg",
+      "title": "Sharad Sharma",
+      "industry": "Consumer Internet, Mobile and SaaS",
+      "location": "New Delhi",
+      "ticket-size":"--",
+      "tw-url":"http://twitter.com/sharads",
+      "ln-url":"https://in.linkedin.com/in/sharadsharma",
+      "website": "angel.co/sharad-sharma"
+    },
+    {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/investor/sharad-sharma.jpg",
+      "title": "Sharad Sharma",
+      "industry": "Consumer Internet, Mobile and SaaS",
+      "location": "New Delhi",
+      "ticket-size":"--",
+      "tw-url":"http://twitter.com/sharads",
+      "ln-url":"https://in.linkedin.com/in/sharadsharma",
+      "website": "angel.co/sharad-sharma"
+    },
+    {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/investor/sharad-sharma.jpg",
+      "title": "Sharad Sharma",
+      "industry": "Consumer Internet, Mobile and SaaS",
+      "location": "New Delhi",
+      "ticket-size":"--",
+      "tw-url":"http://twitter.com/sharads",
+      "ln-url":"https://in.linkedin.com/in/sharadsharma",
+      "website": "angel.co/sharad-sharma"
+    },
+    {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/investor/sharad-sharma.jpg",
+      "title": "Sharad Sharma",
+      "industry": "Consumer Internet, Mobile and SaaS",
+      "location": "New Delhi",
+      "ticket-size":"--",
+      "tw-url":"http://twitter.com/sharads",
+      "ln-url":"https://in.linkedin.com/in/sharadsharma",
+      "website": "angel.co/sharad-sharma"
+    },
+    {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/investor/sharad-sharma.jpg",
+      "title": "Sharad Sharma",
+      "industry": "Consumer Internet, Mobile and SaaS",
+      "location": "New Delhi",
+      "ticket-size":"--",
+      "tw-url":"http://twitter.com/sharads",
+      "ln-url":"https://in.linkedin.com/in/sharadsharma",
+      "website": "angel.co/sharad-sharma"
+    },
+    {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/investor/sharad-sharma.jpg",
+      "title": "Sharad Sharma",
+      "industry": "Consumer Internet, Mobile and SaaS",
+      "location": "New Delhi",
+      "ticket-size":"--",
+      "tw-url":"http://twitter.com/sharads",
+      "ln-url":"https://in.linkedin.com/in/sharadsharma",
+      "website": "angel.co/sharad-sharma"
     }
     
   ]
