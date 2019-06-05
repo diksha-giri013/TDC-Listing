@@ -2,7 +2,7 @@
   "items": [
     {
       "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
-      "title": "Centre for Incubation and Business Acceleration",
+      "title": "CIBA",
       "industry": "IT, Food Processing, Clean Technology, Iot",
       "location": "Mumbai, Goa",
       "ticket-size":"--",
@@ -22,7 +22,7 @@
     },
     {
       "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciie.png",
-      "title": "Centre for Innovation Incubation and Entrepreneurship",
+      "title": "CIIE",
       "industry": "Information Communication Technology, Cleantech and Social",
       "location": "Ahmedabad",
       "ticket-size":"INR 20L",
@@ -92,7 +92,7 @@
     },
     {
       "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ndbi.png",
-      "title": "National Design Business Incubator (NDBI)",
+      "title": "NDBI",
       "industry": "Medical Technology, Agri, Bio",
       "location": "Bengaluru",
       "ticket-size":"--",
@@ -102,7 +102,7 @@
     },
     {
       "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/MUTBI.png",
-      "title": "Manipal University Technology Business Incubator ",
+      "title": "MUTBI",
       "industry": "Consumer commerce, education, design",
       "location": "Manipal",
       "ticket-size":"--",
@@ -132,7 +132,7 @@
     },
     {
       "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/sandbox.jpg",
-      "title": "Foundation for Sandboxstartup Initiatives",
+      "title": "FSI",
       "industry": "Multisector, Social Enterprises",
       "location": "Hubli",
       "ticket-size":"--",
@@ -142,7 +142,7 @@
     },
     {
       "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/IIITD.png",
-      "title": "IIITD Innovation and Incubation Centre",
+      "title": "IIITD IIC",
       "industry": "Multisector",
       "location": "New Delhi",
       "ticket-size":"--",
