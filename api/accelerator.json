@@ -2,54 +2,153 @@
   "items": [
     {
       "logoURL": "https://i1.wp.com/inc42.com/wp-content/uploads/2017/02/500-startups-1.png",
-      "title": "500 Startups",
-      "industry": "Consumer commerce, education, design",
-      "location": "California",
-      "ticket-size":"$150k",
-      "fb-url":"https://www.facebook.com/500startups",
-      "ln-url":"http://www.linkedin.com/company/1443207",
-      "website": "500.co/"
+      "title": "Amplifi Asia",
+      "industry": "B2B & SaaS",
+      "location": "Mumbai",
+      "ticket-size":"--",
+      "fb-url":"https://www.facebook.com/Amplifi4Asia/",
+      "ln-url":"https://www.linkedin.com/company/9475875/",
+      "website": "https://www.amplifi.asia/"
     },
     {
       "logoURL": "RA",
-      "title": "Rajan Anandan",
-      "industry": "Consumer commerce, education, design",
-      "location": "Mumbai",
-      "ticket-size":"$150k",
-      "fb-url":"https://angel.co/rajan-anandan",
-      "ln-url":"http://www.linkedin.com/company/1443207",
-      "website": ""
+      "title": "Avishkar",
+      "industry": "Deeptech, Machine Learning, AR/VR",
+      "location": "Hyderabad",
+      "ticket-size":"INR 10L",
+      "fb-url":"https://www.facebook.com/cieatiiithyd/",
+      "ln-url":"https://www.linkedin.com/company/iiit-h-foundation",
+      "website": "https://cie.iiit.ac.in/accelerator-programs/"
     },
     {
       "logoURL": "RA",
-      "title": "Rajan Anandan",
-      "industry": "Consumer commerce, education, design",
-      "location": "Mumbai",
-      "ticket-size":"$150k",
-      "fb-url":"https://angel.co/rajan-anandan",
-      "ln-url":"http://www.linkedin.com/company/1443207",
-      "website": ""
+      "title": "Axilor Ventures",
+      "industry": "Enterprise, Fintech, AI, Healthtech",
+      "location": "Bengaluru",
+      "ticket-size":"INR 25L",
+      "fb-url":"https://www.facebook.com/AxilorVentures/",
+      "ln-url":"https://in.linkedin.com/company/axilor-ventures",
+      "website": "http://axilor.com/accelerator/"
     },
     {
-      "logoURL": "RA",
-      "title": "Rajan Anandan",
-      "industry": "Consumer commerce, education, design",
-      "location": "Mumbai",
-      "ticket-size":"$150k",
-      "fb-url":"https://angel.co/rajan-anandan",
-      "ln-url":"http://www.linkedin.com/company/1443207",
-      "website": ""
+      "logoURL": "",
+      "title": "BW Accelerate",
+      "industry": "Sector-agnostic",
+      "location": "Delhi",
+      "ticket-size":"--",
+      "fb-url":"https://www.facebook.com/bwaccelerate/",
+      "ln-url":"https://www.linkedin.com/groups/8236937/",
+      "website": "http://bwaccelerate.businessworld.in/"
     },
     {
       "logoURL": " ",
-      "title": " ",
-      "industry": " ",
-      "location": " ",
-      "ticket-size":" ",
-      "fb-url":" ",
-      "ln-url":" ",
-      "website": " "
+      "title": "CATALYST",
+      "industry": "AI & machine learning, Big Data",
+      "location": "Bengaluru",
+      "ticket-size":"--",
+      "fb-url":"https://www.facebook.com/societegenerale",
+      "ln-url":"http://www.linkedin.com/company/societe-generale",
+      "website": "https://www.societegenerale.com/en/digital-and-innovation/open-innovation/global-innovation-network/catalyst"
+    },
+    {
+      "logoURL": "",
+      "title": "Cisco Launchpad",
+      "industry": "IoT, Analytics, Cloud, NLP",
+      "location": "Bengaluru",
+      "ticket-size":"$8k",
+      "fb-url":"https://www.facebook.com/CiscoLaunchPad/",
+      "ln-url":"https://in.linkedin.com/in/sruthi-kannan",
+      "website": "https://www.cisco.com/c/m/en_in/launchpad/index.html#~stickynav=3"
+    },
+    {
+      "logoURL": "",
+      "title": "DesignGild",
+      "industry": "Sectir Agnostic",
+      "location": "Pune",
+      "ticket-size":"--",
+      "fb-url":"https://www.facebook.com/designgild/",
+      "ln-url":"https://www.linkedin.com/company/designgild/about/",
+      "website": "http://www.designgild.in/"
+    },
+    {
+      "logoURL": "",
+      "title": "ESpark-Viridian",
+      "industry": "Sector-agnostic",
+      "location": "Noida",
+      "ticket-size":"--",
+      "fb-url":"https://www.facebook.com/ViridianEspark",
+      "ln-url":"https://www.linkedin.com/company/10000573",
+      "website": "https://thevac.co/"
+    },
+    {
+      "logoURL": "",
+      "title": "GenNext Hub",
+      "industry": "Digital technology",
+      "location": "Mumbai",
+      "ticket-size":"--",
+      "fb-url":"https://www.facebook.com/JioGenNext/",
+      "ln-url":"https://www.linkedin.com/company/13374074/",
+      "website": "https://www.jiogennext.com/"
+    },
+    {
+      "logoURL": "",
+      "title": "GHV Accelerator",
+      "industry": "Healthtech, edtech, fintech, IoT",
+      "location": "Gurugram",
+      "ticket-size":"$50K- 200K",
+      "fb-url":"https://www.facebook.com/ghvaccelerator/",
+      "ln-url":"https://www.linkedin.com/company/ghvaccelerator/",
+      "website": "https://www.ghvaccelerator.com/index.html"
+    },
+    {
+      "logoURL": "",
+      "title": "GSF Global",
+      "industry": "Internet, mobile",
+      "location": "Gurugram",
+      "ticket-size":"$30K-60K",
+      "fb-url":"https://www.facebook.com/GSFINDIAACCELERATOR/",
+      "ln-url":"https://www.linkedin.com/company/2740400",
+      "website": "https://gsfaccelerator.com/"
+    },
+    {
+      "logoURL": "",
+      "title": "Jaarvis Accelerator",
+      "industry": " IoT, agritech, data analytics, AI",
+      "location": "Gurugram",
+      "ticket-size":"$25K–$50K",
+      "fb-url":"http://facebook.com/Jaarvisa",
+      "ln-url":"https://www.linkedin.com/groups/6802025/profile",
+      "website": "https://jaarvisaccelerator.com/"
+    },
+    {
+      "logoURL": "",
+      "title": "Kyron Global",
+      "industry": "Retail, AR/VR, IoT, blockchain",
+      "location": "Bengaluru",
+      "ticket-size":"",
+      "fb-url":"https://www.facebook.com/KyronGlobal/",
+      "ln-url":"https://www.linkedin.com/company/kyron-management-services-pvt-ltd/about/",
+      "website": "https://angel.co/company/kyron-global-accelerator"
+    },
+    {
+      "logoURL": "",
+      "title": "Microsoft Accelerator",
+      "industry": "Tech Enabled Startups",
+      "location": "Bengaluru ",
+      "ticket-size":"--",
+      "fb-url":"https://www.facebook.com/MicrosoftScaleUpIND/",
+      "ln-url":"https://www.linkedin.com/company/msaccelin/about/",
+      "website": "https://startups.microsoft.com/en-us/"
+    },
+    {
+      "logoURL": "",
+      "title": "Oracle Startup Cloud",
+      "industry": "Bengaluru",
+      "location": "Technology",
+      "ticket-size":"--",
+      "fb-url":"https://www.facebook.com/oraclestartups",
+      "ln-url":"http://www.oracle.com/us/social-media/linkedin/",
+      "website": "https://www.oracle.com/in/startup/faq.html"
     }
-    
   ]
 }
