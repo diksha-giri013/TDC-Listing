@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "logoURL": "https://i1.wp.com/inc42.com/wp-content/uploads/2017/02/500-startups-1.png",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/accelerator/Amplifi-Asia.png",
       "title": "Amplifi Asia",
       "industry": "B2B & SaaS",
       "location": "Mumbai",
@@ -11,7 +11,7 @@
       "website": "https://www.amplifi.asia/"
     },
     {
-      "logoURL": "RA",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/accelerator/Aavishkaar.png",
       "title": "Avishkar",
       "industry": "Deeptech, Machine Learning, AR/VR",
       "location": "Hyderabad",
@@ -21,7 +21,7 @@
       "website": "https://cie.iiit.ac.in/accelerator-programs/"
     },
     {
-      "logoURL": "RA",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/accelerator/Axilor-Ventures.jpg",
       "title": "Axilor Ventures",
       "industry": "Enterprise, Fintech, AI, Healthtech",
       "location": "Bengaluru",
@@ -31,7 +31,7 @@
       "website": "http://axilor.com/accelerator/"
     },
     {
-      "logoURL": "",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/accelerator/Business-World-BW-Accelerat.jpg",
       "title": "BW Accelerate",
       "industry": "Sector-agnostic",
       "location": "Delhi",
@@ -51,7 +51,7 @@
       "website": "https://www.societegenerale.com/en/digital-and-innovation/open-innovation/global-innovation-network/catalyst"
     },
     {
-      "logoURL": "",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/accelerator/Cisco-Launchpad.jpg",
       "title": "Cisco Launchpad",
       "industry": "IoT, Analytics, Cloud, NLP",
       "location": "Bengaluru",
@@ -61,7 +61,7 @@
       "website": "https://www.cisco.com/c/m/en_in/launchpad/index.html#~stickynav=3"
     },
     {
-      "logoURL": "",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/accelerator/Designgild_Logo.jpg",
       "title": "DesignGild",
       "industry": "Sectir Agnostic",
       "location": "Pune",
@@ -71,7 +71,7 @@
       "website": "http://www.designgild.in/"
     },
     {
-      "logoURL": "",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/accelerator/Espark-Viridian-logo.jpg",
       "title": "ESpark-Viridian",
       "industry": "Sector-agnostic",
       "location": "Noida",
@@ -81,7 +81,7 @@
       "website": "https://thevac.co/"
     },
     {
-      "logoURL": "",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/accelerator/GenNext-Hub.jpg",
       "title": "GenNext Hub",
       "industry": "Digital technology",
       "location": "Mumbai",
@@ -91,7 +91,7 @@
       "website": "https://www.jiogennext.com/"
     },
     {
-      "logoURL": "",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/accelerator/GHV-Accelerators.jpg",
       "title": "GHV Accelerator",
       "industry": "Healthtech, edtech, fintech, IoT",
       "location": "Gurugram",
@@ -101,7 +101,7 @@
       "website": "https://www.ghvaccelerator.com/index.html"
     },
     {
-      "logoURL": "",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/accelerator/gsf-logo.png",
       "title": "GSF Global",
       "industry": "Internet, mobile",
       "location": "Gurugram",
@@ -111,7 +111,7 @@
       "website": "https://gsfaccelerator.com/"
     },
     {
-      "logoURL": "",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/accelerator/Jaarvis-Accelerator.jpg",
       "title": "Jaarvis Accelerator",
       "industry": " IoT, agritech, data analytics, AI",
       "location": "Gurugram",
@@ -121,7 +121,7 @@
       "website": "https://jaarvisaccelerator.com/"
     },
     {
-      "logoURL": "",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/accelerator/Logo-Kyron_NEw1.jpg",
       "title": "Kyron Global",
       "industry": "Retail, AR/VR, IoT, blockchain",
       "location": "Bengaluru",
@@ -131,7 +131,7 @@
       "website": "https://angel.co/company/kyron-global-accelerator"
     },
     {
-      "logoURL": "",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/accelerator/ms.png",
       "title": "Microsoft Accelerator",
       "industry": "Tech Enabled Startups",
       "location": "Bengaluru ",
@@ -141,7 +141,7 @@
       "website": "https://startups.microsoft.com/en-us/"
     },
     {
-      "logoURL": "",
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/accelerator/Oracle-Startup-Cloud.jpg",
       "title": "Oracle Startup Cloud",
       "industry": "Bengaluru",
       "location": "Technology",
