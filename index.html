@@ -4,10 +4,10 @@
 <head>
   <meta charset="utf-8">
   <script async src="https://cdn.ampproject.org/v0.js"></script>
-  <title>Hello, AMPs</title>
+  <title>TDC Listings</title>
   <link rel="canonical" href="http://example.ampproject.org/article-metadata.html">
   <link rel="stylesheet" href="page.css">
-  <link href="https://fonts.googleapis.com/css?family=Major+Mono+Display|Roboto+Condensed:300,400,700" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css?family=Raleway:800|Roboto+Condensed:300,400,700" rel="stylesheet"> 
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <script type="application/ld+json">
       {
@@ -20,12 +20,10 @@
         ]
       }
     </script>
-  <script custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js" async></script>
-  <script custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js" async></script>
+  
   <script async custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js"></script>
   <script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
   <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
-
   <style amp-boilerplate>body{-amp-start: 8s steps(1,end) 0s 1 normal both; -moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript>
   <style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none;}</style>
   </noscript>
@@ -63,7 +61,6 @@
       ::-webkit-scrollbar{
         display: none;
       }
-      
     .transparentBackground{background-color: rgba(0 , 0, 0, 0);}  
     .flexEnable{flex:1;} .flexAlignBottom{align-items: flex-end;} .flexJustifyEvenly{justify-content: space-evenly;} .paddingLeft{padding-left: 5px} .paddingAll{padding: 10px;} .rootFlex{display: flex; flex: 1;}
     .col{max-width: 25%; background-color: hotpink;} .backgroundWhite{background-color: #fff}
@@ -85,8 +82,8 @@
     .paddingTop{padding-top: 120px;}
     .fontColorDark{color: darkslategray}
     .textAlignRight{text-align: right;}
-    .fontLight{color: #fff; } .fontMont{font-family: 'Major Mono Display', monospace;} .fontRob{font-family: 'Roboto Condensed', sans-serif;}
-    .heading{font-size: 70px;} .subtitle{font-size: 36px; font-weight:300; margin-top: 14px;}
+    .fontLight{color: #fff; } .fontMont{font-family: 'Raleway', sans-serif;} .fontRob{font-family: 'Roboto Condensed', sans-serif;}
+    .heading{font-size: 90px;} .subtitle{font-size: 36px; font-weight:300; margin-top: 14px;}
     .fontXLarge{font-size: 30px;} .fontMedium{font-size:20px}
     .accentColor{color:#00db0f;}
     .logo{position: relative; width: 100%; height: 100%;}
@@ -123,13 +120,13 @@
     <nav class="ampstart-headerbar-nav ampstart-nav">
       <ul id = "navList" class="list-reset center m0 p0 flex justify-center nowrap">
         <li class="ampstart-nav-item " >
-          <a [class]="myClass1" href="#"  on="tap:AMP.setState({ mysrc: 'api\accelerator.json', showFb:'show', showTw:'hidden', myText: 'Open Sourced List of Active Accelerators in NCR', myClass1: 'bottomBorderRed', myClass2:'noBorder', myClass3: 'noBorder'})" class="text-decoration-none bottomBorderRed">Accelerators</a>
+          <a [class]="myClass1" href="#"  on="tap:showFb.show, showTw.hide, AMP.setState({ mysrc: 'api\accelerator.json',  myText: 'Open Sourced List of Active Accelerators in India', myClass1: 'bottomBorderRed', myClass2:'noBorder', myClass3: 'noBorder'})" class="text-decoration-none bottomBorderRed">Accelerators</a>
         </li>
         <li class="ampstart-nav-item " >
-          <a [class]="myClass2" href="#" on="tap:AMP.setState({ mysrc: 'api\incubator.json', showFb:'show', showTw:'hidden', myText: 'Open Sourced List of Active Incubators in NCR', myClass2: 'bottomBorderRed', myClass1:'noBorder', myClass3: 'noBorder' })" class="text-decoration-none block">Incubators</a>
+          <a [class]="myClass2" href="#" on="tap:showFb.show, showTw.hide, AMP.setState({ mysrc: 'api\incubator.json',  myText: 'Open Sourced List of Active Incubators in India', myClass2: 'bottomBorderRed', myClass1:'noBorder', myClass3: 'noBorder' })" class="text-decoration-none block">Incubators</a>
         </li>
         <li class="ampstart-nav-item " > 
-          <a [class]="myClass3" href="#" on="tap:AMP.setState({ mysrc: 'api\investor.json', showTw:'show', showFb:'hidden', myText: 'Open Sourced List of Active Investors in NCR', myClass3: 'bottomBorderRed', myClass1:'noBorder', myClass2: 'noBorder' })" class="text-decoration-none block">Investors</a>
+          <a [class]="myClass3" href="#" on="tap:showFb.hide, showTw.show, AMP.setState({ mysrc: 'api\investor.json', myText: 'Open Sourced List of Active Investors in India', myClass3: 'bottomBorderRed', myClass1:'noBorder', myClass2: 'noBorder' })" class="text-decoration-none block">Investors</a>
         </li>
       </ul>
     </nav>
@@ -171,7 +168,7 @@
                 </div>
                 <div class="paddingLeft flex row3Height flexAlignBottom">
                   <a [class]="showFb" target="_blank" href="{{fb-url}}"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" x="0px" y="0px" width="20" height="20" viewBox="0 0 50 50"  class="icon icons8-Facebook-Filled" >    <path  d="M40,0H10C4.486,0,0,4.486,0,10v30c0,5.514,4.486,10,10,10h30c5.514,0,10-4.486,10-10V10C50,4.486,45.514,0,40,0z M39,17h-3 c-2.145,0-3,0.504-3,2v3h6l-1,6h-5v20h-7V28h-3v-6h3v-3c0-4.677,1.581-8,7-8c2.902,0,6,1,6,1V17z" style="fill: #3c5a99;"></path></svg> </a>
-                  <a [class]="showTw" target="_blank" href="{{tw-url}}" > <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" style="background-color: #0077B5; border-radius: 3px; padding: 2px;"
+                  <a hidden [class]="showTw" target="_blank" href="{{tw-url}}" > <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" style="background-color: #0077B5; border-radius: 3px; padding: 2px;"
                     width="20" height="20"
                     viewBox="0 0 26 26"
                     style=" fill:#fff;"><g id="surface1"><path style="fill:#fff " d="M 25.855469 5.574219 C 24.914063 5.992188 23.902344 6.273438 22.839844 6.402344 C 23.921875 5.75 24.757813 4.722656 25.148438 3.496094 C 24.132813 4.097656 23.007813 4.535156 21.8125 4.769531 C 20.855469 3.75 19.492188 3.113281 17.980469 3.113281 C 15.082031 3.113281 12.730469 5.464844 12.730469 8.363281 C 12.730469 8.773438 12.777344 9.175781 12.867188 9.558594 C 8.503906 9.339844 4.636719 7.246094 2.046875 4.070313 C 1.59375 4.847656 1.335938 5.75 1.335938 6.714844 C 1.335938 8.535156 2.261719 10.140625 3.671875 11.082031 C 2.808594 11.054688 2 10.820313 1.292969 10.425781 C 1.292969 10.449219 1.292969 10.46875 1.292969 10.492188 C 1.292969 13.035156 3.101563 15.15625 5.503906 15.640625 C 5.0625 15.761719 4.601563 15.824219 4.121094 15.824219 C 3.78125 15.824219 3.453125 15.792969 3.132813 15.730469 C 3.800781 17.8125 5.738281 19.335938 8.035156 19.375 C 6.242188 20.785156 3.976563 21.621094 1.515625 21.621094 C 1.089844 21.621094 0.675781 21.597656 0.265625 21.550781 C 2.585938 23.039063 5.347656 23.90625 8.3125 23.90625 C 17.96875 23.90625 23.25 15.90625 23.25 8.972656 C 23.25 8.742188 23.246094 8.515625 23.234375 8.289063 C 24.261719 7.554688 25.152344 6.628906 25.855469 5.574219 "></path></g></svg> </a>

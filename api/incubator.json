@@ -11,6 +11,16 @@
       "website": "http://ciba.org.in/mumbai/"
     },
     {
+      "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/ciba.jpg",
+      "title": "ANDC Instart",
+      "industry": "Sector Agnostic",
+      "location": "Delhi",
+      "ticket-size":"--",
+      "fb-url":"https://www.facebook.com/andcinstart/",
+      "ln-url":"#",
+      "website": "https://andcinstartfoundation.in/"
+    },
+    {
       "logoURL": "https://raw.githubusercontent.com/diksha-giri013/TDC-Listing/master/res/logo/incubator/angelprime.png",
       "title": "Prime Venture Partners",
       "industry": "Mobile internet, ecommerce",
